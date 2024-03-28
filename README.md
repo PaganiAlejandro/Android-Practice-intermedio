@@ -1,9 +1,6 @@
-# ANDROID MASTER INTERMEDIO
+# ANDROID PRACTICA
 
-<p align="center">
-<a href="https://youtu.be/UaR7GSNACsM"><img src="https://i.imgur.com/V48W0sU.jpg" style="height: 75%; width:75%;"/></center></a></p>
-
-Me enfocaremos en escribir código de calidad para comenzar a buscar trabajo como desarrollador de Android.
+Me enfocare en escribir código de calidad para comenzar a buscar trabajo como desarrollador de Android.
 
 ## Practicando para entrevistas
 
