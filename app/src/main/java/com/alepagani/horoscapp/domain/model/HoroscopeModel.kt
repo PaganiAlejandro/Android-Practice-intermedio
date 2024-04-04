@@ -2,15 +2,15 @@ package com.alepagani.horoscapp.domain.model
 
 enum class HoroscopeModel {
     Aries,
-    Tauro,
-    Picis,
-    Capricornio,
-    Geminis,
-    Acuario,
+    Taurus,
+    Gemini,
     Cancer,
-    Escorpio,
-    Sagitario,
-    Virgo,
     Leo,
-    Libra
+    Virgo,
+    Libra,
+    Scorpio,
+    Sagittarius,
+    Capricorn,
+    Aquarius,
+    Pisces
 }

@@ -25,7 +25,7 @@ class HoroscopeViewHolder(view: View):RecyclerView.ViewHolder(view) {
             duration = 500
             interpolator = LinearInterpolator()
             rotationBy(360f)
-            withEndAction(newLambda)
+            withEndAction { newLambda() }
             start()
         }
     }
